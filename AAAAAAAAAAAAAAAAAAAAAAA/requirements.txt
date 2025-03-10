@@ -4,3 +4,4 @@ matplotlib==3.10.1
 langchain-openai==0.3.8
 langchain-community==0.3.19
 SQLAlchemy==2.0.37
+PyMySQL==1.1.1
